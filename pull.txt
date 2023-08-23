@@ -11,3 +11,4 @@ $ git pull origin main -
 
 3. 풀 리케스트 : 포크로 가져온 레파지토리를 수정해 원작자에게 수정 반영을 요청
 - fork - clone 내 코드(주소) - 내용 수정 후 commit - push
+- 충돌이 일어났을 때 pull-requests에서 해결
