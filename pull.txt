@@ -10,4 +10,4 @@ $ git pull origin main -
   -> pull로 온라인에서 로컬로 내려받음 - 받은 로컬의 문서 수정 후 다시 commit - push로 온라인 업로드
 
 3. 풀 리케스트 : 포크로 가져온 레파지토리를 수정해 원작자에게 수정 반영을 요청
-- fork - clone - 내용 수정 후 commit - push
+- fork - clone 내 코드(주소) - 내용 수정 후 commit - push
